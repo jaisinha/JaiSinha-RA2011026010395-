@@ -1,1 +1,1 @@
-# Kush Kapoor Plotline  React App
+# Jai Sinha Plotline  React App
